@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["ics-26"]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
