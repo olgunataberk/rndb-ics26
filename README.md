@@ -1,12 +1,10 @@
-# Ramulator & DRAM Bender Tutorial @ ASPLOS 2026
+# Ramulator & DRAM Bender Tutorial @ ICS 2026
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://unrealismail.github.io/mccsys-asplos26/)
-
-Official website for the **Ramulator & DRAM Bender Tutorial: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation**, held in conjunction with [ASPLOS 2026](https://www.asplos-conference.org/asplos2026/) in Pittsburgh, USA.
+Official website for the **Ramulator & DRAM Bender Tutorial: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation**, held in conjunction with [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage) in Belfast, Northern Ireland, UK.
 
 ## 🗓️ Important Dates
 
-- **Tutorial Date:** March 22, 2026
+- **Tutorial Date:** July 6, 2026
 
 ## 📋 About the Tutorial
 
