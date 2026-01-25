@@ -11,6 +11,7 @@ layout: default
     <a href="#speakers">Speakers</a>
     <a href="#livestream">Livestream</a>
     <a href="#organizers">Organizers</a>
+    <a href="#venue">Venue</a>
   </div>
 </nav>
 
@@ -42,29 +43,16 @@ DRAM performance, robustness, latency, and power under different conditions
 This tutorial+workshop will introduce simulation-based DRAM research together
 with experimental DRAM characterization using real DRAM chips. Participants will
 gain practical experience with two widely used infrastructures in industry and
-academia: **Ramulator**, a cycle-accurate and extensible main memory simulator,
-and **DRAM Bender**, an FPGA-based DRAM testing infrastructure.
+academia: <a href="https://github.com/CMU-SAFARI/ramulator2">Ramulator</a>, a cycle-accurate and extensible main memory simulator,
+and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA-based DRAM testing infrastructure.
 
 ### Ramulator
 
-Ramulator is an extensible main memory simulator that provides cycle-level
-performance models for a variety of commercial DRAM standards (e.g., DDR3/4,
-LPDDR3/4, GDDR5, HBM), emerging memory technologies, and academic proposals. Its
-modular design enables easy integration of additional standards, technologies,
-and mechanisms. Ramulator is written in C++ and can be easily integrated into
-both full-system simulators, such as gem5, as well as other microarchitectural
-simulators, zsim, and Virtuoso.
+<span class="emph-nobreak">Ramulator</span> is an extensible main memory simulator that provides <span class="emph-nobreak">cycle-level performance models for a variety of commercial DRAM standards</span> (e.g., DDR3/4, LPDDR3/4, GDDR5, HBM), <span class="emph-nobreak">emerging memory technologies</span>, and <span class="emph-nobreak">academic proposals</span>. Its modular design enables easy integration of additional standards, technologies, and mechanisms. Ramulator is written in C++ and can be easily integrated into both full-system simulators, such as <span class="emph-nobreak">gem5</span>, as well as other microarchitectural simulators, <span class="emph-nobreak">zsim</span>, and <span class="emph-nobreak">Virtuoso</span>.
 
 ### DRAM Bender
 
-DRAM Bender (based on SoftMC), is an FPGA-based DRAM testing infrastructure.
-DRAM Bender provides simple and intuitive high-level programming interfaces in
-C++ and Python. A user of DRAM Bender writes DRAM test programs in a high-level
-language. DRAM Bender's programmer interface automatically translates these
-programs into low-level DRAM Bender instructions (e.g., DRAM commands,
-arithmetic, memory, control-flow instructions) on the FPGA. Thereby, DRAM Bender
-enables users with diverse technical backgrounds to rapidly characterize DRAM
-without requiring logic design expertise.
+<span class="emph-nobreak">DRAM Bender</span> (based on SoftMC), is <span class="emph-nobreak">an FPGA-based DRAM testing infrastructure</span>. DRAM Bender provides <span class="emph-nobreak">simple and intuitive high-level programming interfaces</span> in C++ and Python. A user of DRAM Bender writes DRAM test programs in a high-level language. DRAM Bender's programmer interface automatically translates these programs into low-level DRAM Bender instructions (e.g., DRAM commands, arithmetic, memory, control-flow instructions) on the FPGA. Thereby, DRAM Bender enables users with diverse technical backgrounds to <span class="emph-nobreak">rapidly characterize DRAM without requiring logic design expertise</span>.
 
 **Time & Location:** TBD
 
@@ -111,7 +99,8 @@ without requiring logic design expertise.
   <div class="organizer-info">
     <h4><a href="https://nisabostanci.github.io/" target="_blank">F. Nisa Bostanci</a></h4>
     <div class="organizer-affiliation">ETH Zürich</div>
-    <p class="organizer-bio">F. Nisa Bostanci is a fourth-year PhD student in the SAFARI Research Group at ETH Zurich, under the supervision of Prof. Onur Mutlu. She is broadly interested in computer architecture and, more specifically, in security, reliability, and safety (robustness) of memory systems, emerging memory and computation paradigms, including Processing-In-Memory architectures (PIM), and designing effective and efficient solutions to address robustness issues in modern and future systems. Her recent works uncover and mitigate new security vulnerabilities that emerge with the adoption of read disturbance solutions and PIM architectures to aid in designing robust future systems.</p>
+    <p class="organizer-bio">F. Nisa Bostanci is a 4th-year PhD student in the SAFARI Research Group at ETH Zurich, under the supervision of Prof. Onur Mutlu. She is broadly interested in computer architecture and, more specifically, in security, reliability, and safety (robustness) of memory systems, emerging memory and computation paradigms, including Processing-In-Memory architectures (PIM), and designing effective and efficient solutions to address robustness issues in modern and future systems. Her recent works uncover and mitigate new security vulnerabilities that emerge with the adoption of read disturbance solutions and PIM architectures to aid in designing robust future systems.
+</p>
     <div class="organizer-email">📧 <a href="mailto:nisa.bostanci@safari.ethz.ch">nisa.bostanci@safari.ethz.ch</a></div>
   </div>
 </div>
@@ -135,6 +124,7 @@ without requiring logic design expertise.
   <div class="organizer-info">
     <h4><a href="#" target="_blank">Haocong Luo</a></h4>
     <div class="organizer-affiliation">ETH Zürich</div>
+    <p class="organizer-bio">Haocong Luo is a PhD student in the SAFARI Research Group at ETH Zurich under the supervision of Prof.Onur Mutlu. His current broader research interests are 1) understanding and improving the performance and reliability of DRAM-based memory systems, 2) accelerating BVH traversals to enable high-performance path-traced rendering algorithms, and 3) designing efficient memory architectures and systems for Large Language Models. </p>
     <div class="organizer-email">📧 <a href="mailto:haocong.luo@safari.ethz.ch">haocong.luo@safari.ethz.ch</a></div>
   </div>
 </div>
@@ -147,6 +137,7 @@ without requiring logic design expertise.
   <div class="organizer-info">
     <h4><a href="https://www.linkedin.com/in/ismail-emir-yuksel/" target="_blank">Ismail Emir Yuksel</a></h4>
     <div class="organizer-affiliation">ETH Zürich</div>
+    <p class="organizer-bio">Ismail Emir Yuksel is a 2nd-year PhD student in the SAFARI Research Group at ETH Zurich under the supervision of Prof. Onur Mutlu. His current broader research interests are in computer architecture, processing-in-memory, and hardware security, focusing on understanding, enhancing, and exploiting fundamental computational capabilities of modern DRAM architectures. His recent publications show that commodity DRAM chips, without any modification to the chip itself (only with modifications to the memory controller), are able to execute bulk-bitwise computation and data movement operations (including NAND, NOR, NOT, AND, OR, MAJority, multi-row copy, and initialization functions) in a reasonably robust manner. </p>
     <div class="organizer-email">📧 <a href="mailto:ismail.yuksel@safari.ethz.ch">ismail.yuksel@safari.ethz.ch</a></div>
   </div>
 </div>
@@ -188,12 +179,13 @@ without requiring logic design expertise.
 
 <div class="contact-section">
   <p>For questions about the tutorial, please contact the organizers:</p>
+  <p><strong>General Inquiries:</strong> <a href="mailto:nisa.bostanci@safari.ethz.ch">nisa.bostanci@safari.ethz.ch</a> and <a href="mailto:ataberk.olgun@safari.ethz.ch">ataberk.olgun@safari.ethz.ch</a></p>
   <p><strong>SAFARI Research Group:</strong> <a href="https://safari.ethz.ch/" target="_blank">safari.ethz.ch</a></p>
 </div>
 
 ---
 
 <div class="footer-section">
-  <p>Ramulator+DRAM Bender Tutorial@ASPLOS'26</p>
+  <p><b>Ramulator & DRAM Bender Tutorial@ASPLOS'26</b> | Cutting-Edge Infrastructures<br>for Real and Future Memory System Evaluation Tutorial</p>
   <p>In conjunction with <a href="https://www.asplos-conference.org/asplos2026/" target="_blank">ASPLOS 2026</a> | Pittsburgh, USA</p>
 </div>

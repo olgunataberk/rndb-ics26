@@ -8,14 +8,15 @@
   --primary-color: #1e5ba8;
   --primary-light: #3a7bc8;
   --primary-dark: #124178;
-  --accent-color: #2980b9;
-  --accent-light: #5dade2;
+  --accent-color: #318fdd;
+  --accent-light: #4ba2e9;
   --text-color: #2d2d2d;
   --text-light: #555555;
   --bg-light: #f7f9fc;
-  --bg-gradient: linear-gradient(135deg, #1e5ba8 0%, #3a7bc8 50%, #2980b9 100%);
+  --bg-gradient: linear-gradient(135deg, #1e5ba8 0%, #3a7bc8 50%, #318fdd 100%);
   --card-shadow: 0 4px 15px rgba(30, 91, 168, 0.15);
   --border-radius: 12px;
+  --organizer-bg: #ecf3ff;
 }
 
 /* Reset and Base Styles */
@@ -65,8 +66,9 @@ body {
 .nav-links {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: flex-start;
+  justify-content: flex-end;
   gap: 0.1rem;
+  flex-grow: 1;
 }
 
 .nav-links a {
@@ -195,11 +197,12 @@ body {
   color: white !important;
   text-shadow: 2px 4px 8px rgba(0,0,0,0.2);
   letter-spacing: -1px;
+  line-height: 1.1;
 }
 
 .hero-subtitle {
-  font-size: 1.7rem;
-  font-weight: 400;
+  font-size: 2.1rem;
+  font-weight: 500;
   margin: 0.5rem 0 1.8rem 0;
   color: white !important;
   opacity: 0.95;
@@ -307,6 +310,7 @@ h3 {
   color: var(--primary-light);
   font-size: 1.6rem;
   margin-top: 2rem;
+  margin-bottom: -0.5rem;
 }
 
 /* Feature Grid */
@@ -825,6 +829,14 @@ hr {
   margin: 3rem 0;
 }
 
+/* Emphasis styling - no line break */
+.emph-nobreak {
+  font-style: normal;
+  font-weight: 600;
+  color: var(--primary-color);
+  display: inline;
+}
+
 /* Organizers Section - New Style with Photos */
 .organizers-section {
   margin: 2rem 0;
@@ -844,7 +856,7 @@ hr {
 
 .organizer-item:hover {
   box-shadow: var(--card-shadow);
-  background: #f3eef8;
+  background: var(--organizer-bg);
 }
 
 .organizer-photo {
