@@ -4,7 +4,7 @@ layout: default
 
 <!-- Navigation Bar -->
 <nav class="nav-bar">
-  <a href="#" class="nav-brand">Ramulator & DRAM Bender Tutorial @ ASPLOS26</a>
+  <a href="#" class="nav-brand">Ramulator & DRAM Bender Tutorial @ ICS26</a>
   <div class="nav-links">
     <a href="#about">About</a>
     <a href="#agenda">Agenda</a>
@@ -17,13 +17,13 @@ layout: default
 
 <!-- Hero Section -->
 <div class="hero-section">
-  <div class="hero-date">MARCH 22<sup>nd</sup>, 2026</div>
+  <div class="hero-date">JULY 6<sup>th</sup>, 2026</div>
   <h1 class="hero-title">Ramulator & DRAM Bender Tutorial</h1>
   <h2 class="hero-subtitle">Cutting-Edge Infrastructures for Real and Future Memory System Evaluation</h2>
-  <p class="hero-conference">In conjunction with the ACM International Conference on Architectural Support for Programming Languages<br>and Operating Systems (ASPLOS 2026)</p>
-  <p class="hero-location">Pittsburgh, USA</p>
+  <p class="hero-conference">In conjunction with the ACM International Conference on Supercomputing 2026 (ICS 2026)</p>
+  <p class="hero-location">Belfast, Northern Ireland, United Kingdom</p>
   <div class="hero-buttons">
-    <a href="https://www.asplos-conference.org/asplos2026/" class="btn btn-primary" target="_blank">Register Now</a>
+    <a href="https://dipsa-qub.github.io/ICS2026-webpage/" class="btn btn-primary" target="_blank">Register Now</a>
   </div>
 </div>
 
@@ -159,14 +159,15 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
 <div class="event-grid">
   <div class="event-info">
     <h3>Venue</h3>
-    <p><strong>The Landing Hotel</strong></p>
-    <p>757 Casino Dr. Pittsburgh<br>PA 15212<br>Pittsburgh<br>USA</p>
-    <p>The tutorial will be held in conjunction with <a href="https://www.asplos-conference.org/asplos2026/" target="_blank">ASPLOS 2026</a>.</p>
-    <p>For registration and accommodation information, please visit the <a href="https://www.asplos-conference.org/asplos2026/" target="_blank">ASPLOS 2026 website</a>.</p>
+    <p><strong>To Be Announced</strong></p>
+    <!-- <p><strong>The Landing Hotel</strong></p>
+    <p>757 Casino Dr. Pittsburgh<br>PA 15212<br>Pittsburgh<br>USA</p> -->
+    <p>The tutorial will be held in conjunction with <a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026</a>.</p>
+    <p>For registration and accommodation information, please visit the <a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026 website</a>.</p>
   </div>
-  <div class="event-map">
+  <!-- <div class="event-map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.2984707778737!2d-80.0236945236356!3d40.44653045382461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f56293b33075%3A0x815461caafb7b1fd!2sThe%20Landing%20Hotel%20Pittsburgh!5e0!3m2!1sen!2sch!4v1767631980292!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
+  </div> -->
 </div>
 
 ---
