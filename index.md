@@ -4,7 +4,7 @@ layout: default
 
 <!-- Navigation Bar -->
 <nav class="nav-bar">
-  <a href="#" class="nav-brand">Ramulator & DRAM Bender Tutorial @ ICS26</a>
+  <a href="#" class="nav-brand">2nd Ramulator & DRAM Bender Tutorial @ ICS26</a>
   <div class="nav-links">
     <a href="#about">About</a>
     <a href="#agenda">Agenda</a>
