@@ -18,7 +18,7 @@ layout: default
 <!-- Hero Section -->
 <div class="hero-section">
   <div class="hero-date">JULY 6<sup>th</sup>, 2026</div>
-  <h1 class="hero-title">Ramulator & DRAM Bender Tutorial</h1>
+  <h1 class="hero-title">2nd Ramulator & DRAM Bender Tutorial</h1>
   <h2 class="hero-subtitle">Cutting-Edge Infrastructures<br/>for Real and Future Memory System Evaluation</h2>
   <p class="hero-conference">In conjunction with the ACM International Conference on Supercomputing 2026 (ICS 2026)</p>
   <p class="hero-location">Belfast, Northern Ireland, United Kingdom</p>
