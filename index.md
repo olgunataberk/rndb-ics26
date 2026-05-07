@@ -7,6 +7,7 @@ layout: default
   <a href="#" class="nav-brand">3rd Ramulator & DRAM Bender Tutorial @ ICS26</a>
   <div class="nav-links">
     <a href="#about">About</a>
+    <a href="#cfp">Call for Papers</a>
     <a href="#agenda">Agenda</a>
     <a href="#speakers">Speakers</a>
     <a href="#livestream">Livestream</a>
@@ -102,6 +103,44 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
   </div>
 </div>
 
+</div>
+
+---
+
+## Call for Papers {#cfp}
+
+This workshop includes invited talks on DRAM characterization and memory system simulation using Ramulator and DRAM Bender.
+
+We are soliciting extended abstracts to be included in the conference proceedings. Attendees interested in delivering a talk should submit a brief proposal with an extended abstract of their work (along with a brief bio). We invite submissions related to (but not limited to) the following topics:
+
+### Topics of Interest
+
+<div class="topics-grid">
+  <div class="topic-item"><span class="topic-bullet">▹</span> New features, extensions, or enhancements to Ramulator</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Use of Ramulator for evaluating memory performance, emerging memory technologies, or architectural mechanisms</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> DRAM characterization studies conducted using DRAM Bender</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Reliability, failure analysis, or security studies using DRAM Bender</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Cross-layer research that combines memory system simulation (Ramulator) with real-chip DRAM characterization (DRAM Bender)</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Benchmarks, workloads, or methodologies for DRAM studies using Ramulator or DRAM Bender</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Open-source tools, software extensions, datasets, or reusable components built on top of Ramulator or DRAM Bender</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> Case studies demonstrating how Ramulator or DRAM Bender enabled new research insights or the validation of ideas</div>
+</div>
+
+We especially encourage early-stage research, work-in-progress results, experimental methodologies, and community contributions that will benefit researchers working with Ramulator or DRAM Bender.
+
+### Submission Guidelines
+
+<div class="topics-grid">
+  <div class="topic-item"><span class="topic-bullet">▹</span> <strong>Page limit:</strong> 4 pages</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> <strong>Format:</strong> <a href="https://dipsa-qub.github.io/ICS2026-webpage/for-authors/information.html">ACM ICS 2026 template</a></div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> <strong>Deadline:</strong> 21 May, 2026 (AoE)</div>
+  <div class="topic-item"><span class="topic-bullet">▹</span> <strong>Submission form:</strong> <a href="https://forms.gle/Hfa2pfGD7BS7jXJi6">https://forms.gle/Hfa2pfGD7BS7jXJi6</a></div>
+</div>
+
+<div class="contact-section">
+  <p>Questions about submissions? Contact
+  <a href="mailto:nisa.bostanci@safari.ethz.ch">nisa.bostanci@safari.ethz.ch</a>
+  or <a href="mailto:ataberk.olgun@safari.ethz.ch">ataberk.olgun@safari.ethz.ch</a>.</p>
 </div>
 
 ---
