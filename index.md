@@ -250,15 +250,14 @@ We especially encourage early-stage research, work-in-progress results, experime
 <div class="event-grid">
   <div class="event-info">
     <h3>Venue</h3>
-    <p><strong>To Be Announced</strong></p>
-    <!-- <p><strong>The Landing Hotel</strong></p>
-    <p>757 Casino Dr. Pittsburgh<br>PA 15212<br>Pittsburgh<br>USA</p> -->
+    <p><strong>Assembly Buildings Conference Centre</strong></p>
+    <p>2-10 Fisherwick Place<br>Belfast, BT1 6DW<br>Northern Ireland, United Kingdom</p>
     <p>The tutorial will be held in conjunction with <a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026</a>.</p>
     <p>For registration and accommodation information, please visit the <a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026 website</a>.</p>
   </div>
-  <!-- <div class="event-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.2984707778737!2d-80.0236945236356!3d40.44653045382461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f56293b33075%3A0x815461caafb7b1fd!2sThe%20Landing%20Hotel%20Pittsburgh!5e0!3m2!1sen!2sch!4v1767631980292!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div> -->
+  <div class="event-map">
+    <iframe src="https://www.google.com/maps?q=Assembly%20Buildings%20Conference%20Centre%202-10%20Fisherwick%20Place%20Belfast%20BT1%206DW&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
 </div>
 
 ---
@@ -274,6 +273,6 @@ We especially encourage early-stage research, work-in-progress results, experime
 ---
 
 <div class="footer-section">
-  <p><b>Ramulator & DRAM Bender Tutorial@ASPLOS'26</b> | Cutting-Edge Infrastructures<br>for Real and Future Memory System Evaluation Tutorial</p>
-  <p>In conjunction with <a href="https://www.asplos-conference.org/asplos2026/" target="_blank">ASPLOS 2026</a> | Pittsburgh, USA</p>
+  <p><b>Ramulator & DRAM Bender Tutorial@ICS'26</b> | Cutting-Edge Infrastructures<br>for Real and Future Memory System Evaluation Tutorial</p>
+  <p>In conjunction with <a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026</a> | Belfast, Northern Ireland, United Kingdom</p>
 </div>
