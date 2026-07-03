@@ -128,10 +128,10 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
   <p>The tutorial will be livestreamed on YouTube. A replay will also be available afterwards.</p>
   
   <div class="youtube-embed">
-    <iframe src="https://www.youtube.com/embed" title="Ramulator & DRAM Bender Tutorial Livestream" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/9-_8c79oR3E?si=Q_nQIfLZMe_QZmAv" title="Ramulator & DRAM Bender Tutorial Livestream" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   
-  <a href="https://youtube.com/live" class="livestream-link" target="_blank">▶️ Watch on YouTube</a>
+  <a href="https://youtu.be/9-_8c79oR3E" class="livestream-link" target="_blank">▶️ Watch on YouTube</a>
 </div>
 
 ---
