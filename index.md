@@ -180,7 +180,7 @@ We especially encourage early-stage research, work-in-progress results, experime
           <td class="duration-cell">40 min</td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>DRAM Bender (Introduction + Research Highlights)</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-ics26/slides/rndb_workshop_ataberk_ics26.pptx" target="_blank" rel="noopener">Download</a></td>
         </tr>
       </tbody>
     </table>
@@ -206,7 +206,7 @@ We especially encourage early-stage research, work-in-progress results, experime
           <td class="duration-cell">20 min</td>
           <td class="speaker-cell">Antonino Tumeo</td>
           <td>Realistic DRAM Timing for HLS: Closing the Memory Fidelity Gap with Ramulator-Backed Co-Simulation</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-ics26/slides/antonino_slides.pdf" target="_blank" rel="noopener">Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">11:20-11:50</td>
