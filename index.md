@@ -173,7 +173,7 @@ We especially encourage early-stage research, work-in-progress results, experime
           <td class="duration-cell">45 min</td>
           <td class="speaker-cell">Onur Mutlu</td>
           <td>Tools for Evaluating Memory and Memory-Centric Computing DRAM, Storage, Virtual Memory</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://people.inf.ethz.ch/omutlu/pub/onur-R&DB-Tutorial-ToolsForEvaluatingMemory-6-July-2026.pptx" target="_blank" rel="noopener">Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">09:50-10:30</td>
